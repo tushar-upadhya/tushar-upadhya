@@ -39,7 +39,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="tusharupadhyaa691@gmail.com" >
+  <a href="tusharupadhyay691@gmail.com" >
     <img align="center" alt="tushar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
@@ -51,7 +51,7 @@
       <img align="center" alt="tushar | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="[https://www.instagram.com/_huynh.tien.5536_/](https://www.facebook.com/people/Tushar-Upadhyay/100008185626112/)" target="_blank">
+  <a href="https://www.instagram.com/_tusharupadhyay/" target="_blank">
     <img align="center" alt="tushar | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
