@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="tushar | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=tushar-upadhyay&style=flat-square&label=Profile+Views+🤞)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=HHey!+I'm+tushar+upadhyay+%3C3;Welcome+to+my+profile!" alt="Title"></img>
