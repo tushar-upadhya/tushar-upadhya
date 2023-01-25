@@ -62,6 +62,5 @@
 <p> 
 
 <div align="center">
- Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/
-tushar-upadhya/count.svg) people to checkout my profile :heart: Have a nice day! :wink: <br/>
+  Have a nice day! :wink: <br/>
 </div>
