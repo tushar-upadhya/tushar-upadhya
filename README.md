@@ -1,13 +1,17 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=tushar-upadhyay&style=flat-square&label=Profile+Views+🤞)
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=HHey!+I'm+tushar+upadhyay+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Tushar Upadhyay** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Tushar Upadhyay** 
+- <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 <!-- - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City Campus** -->
 <!-- - :books: My major is **Software Engineering** -->
 - :earth_asia: I'm living now in **Uttar Pradhesh, India**
