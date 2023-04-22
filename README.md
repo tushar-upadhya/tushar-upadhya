@@ -1,4 +1,6 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=tushar-upadhyay&style=flat-square&label=Profile+Views+🤞)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp; 
+![](https://komarev.com/ghpvc/?username=tushar-upadhyay&style=flat-square&label=Profile+Views+🤞)
+<!-- ![](https://komarev.com/ghpvc/?username=shraddha08-cmyk&label=Profile%20views&color=0e75b6&style=flat-square&label=Profile+Views+🤞) -->
 
 
 <div align="center">
