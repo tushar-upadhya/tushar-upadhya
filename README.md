@@ -10,11 +10,7 @@
 
 [Google Keep Note - Clone 📒](https://github.com/tushar-upadhya/google-keep-clone)  I built a Google Keep note clone using React, Material UI, and styled components. The app allows users to create, edit, and delete notes, and is designed with a modern look and feel.
 
-[Pet Grooming 🐶](https://github.com/tushar-upadhya/pet-grooming)  I developed a pet grooming web application using Tailwind CSS and React to streamline appointment booking for pet owners. I was able to create a visually appealing design that simplifies the booking process.
-
 [Chatify 💬](https://github.com/tushar-upadhya/chatify) A chat app with Firebase is a real-time chat application that uses Firebase as a backend database and authentication system.
-
-[Mi Store - clone 🏪](https://github.com/tushar-upadhya/pet-grooming)  I created a MI store clone using React, demonstrating my ability to build user-friendly web applications. I am excited to continue exploring the potential of this powerful JavaScript library & React.
 
 [Youtube 📺](https://github.com/tushar-upadhya/youtube_clone-main) A web app that replicates some of the core features of the YouTube platform, such as video search and playback using technologies such as ReactJs , TailwindCss and YoutubeAPI.
 
