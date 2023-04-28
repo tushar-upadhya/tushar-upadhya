@@ -1,7 +1,7 @@
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/tushar-upadhya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tushar-upadhya?style=social"> &nbsp;&nbsp;  -->
 
 # 💫 About Me:
-🔭 I’m currently working on  *Postman CLONE**
+🔭 I’m currently working on  *Postman CLONE*
 <br>🌱 I’m currently learning ReactJS<br>💬 Ask me about  Coding, Bike, Travelling, Fitness and Movies<br>⚡ Fun fact : have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tusharupadhyay.vercel.app/) 
