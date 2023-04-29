@@ -31,8 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tushar-upadhya&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tushar-upadhya&bg_color=b5b5b5&color=000000&line=c82dbd&point=ba1212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tushar-upadhya&limit=5&theme=monokai&combine_all_yearly_contributions=true)
