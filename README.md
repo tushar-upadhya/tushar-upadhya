@@ -16,8 +16,11 @@
 [Youtube 📺](https://github.com/tushar-upadhya/youtube_clone-main) A web app that replicates some of the core features of the YouTube platform, such as video search and playback using technologies such as ReactJs , TailwindCss and YoutubeAPI.
 
 [Face-Detection 👻](https://github.com/tushar-upadhya/face-detection) Face recognition technology detects emotions in real-time. Whether for market research, security, or understanding people around you.
+<!-- 
+<b>My Recent posts on Medium!</b>
 
 
+<a target="_blank" href="https://medium.com/@upadhyaytushar552"><img src="https://medium.com/@upadhyaytushar552/the-godfather-of-a-i-leaves-google-and-warns-of-danger-ahead-592472b93e28" alt="Recent Article on medium 1"></img></a> -->
 
 
 
