@@ -31,14 +31,11 @@ I have actively participated in LeetCode and have achieved a :star::star::star: 
 
 Throughout my career, I have worked on various projects that highlight my technical skills and problem-solving abilities. Some notable projects include:
 
-
 1. [Resume Builder](https://resume-builder-kappa-neon.vercel.app/) : A resume builder application that allows users to customize their resumes with 5️⃣ color options and a drag-and-drop feature. Updates are shown in real-time, providing an intuitive user experience. 🎨📄💼
 
 2. [YouTube Clone](https://youtube-clone-tusharupadhyay.netlify.app/) : A YouTube clone built using Tailwind CSS and ReactJS. It replicates the core functionalities of the original YouTube application, allowing users to browse videos, search for content, and view video details. 🎥🔍📺
 
-
-
-   ...
+...
 
 Feel free to explore my repositories for more projects and code samples.
 
