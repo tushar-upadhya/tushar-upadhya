@@ -16,6 +16,7 @@ Here are the key skills I possess:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?&style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
 
+
 ## LeetCode and Contest Rating
 
 I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ rating. Additionally, I have a Contest Rating of 1480, which reflects my problem-solving skills and ability to tackle algorithmic challenges.
@@ -38,7 +39,9 @@ Feel free to explore my repositories for more projects and code samples.
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar-upadhya&show_icons=true&theme=dark)](https://github.com/tushar-upadhya)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-upadhya&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="Ashrayaa" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&theme=transparent&include_all_commits=true" />
+
 
 ## Contact Me
 
