@@ -40,7 +40,7 @@ Feel free to explore my repositories for more projects and code samples.
 ## GitHub Stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-upadhya&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="Ashrayaa" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&theme=transparent&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-upadhya&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="tushar" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&theme=transparent&include_all_commits=true" />
 
 
 ## Contact Me
