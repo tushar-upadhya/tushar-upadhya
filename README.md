@@ -25,6 +25,7 @@ I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ 
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=_tusharupadhyay&theme=dark&hide=contributions)](https://leetcode.com/_tusharupadhyay)
 
+
 ## Projects
 
 Throughout my career, I have worked on various projects that highlight my technical skills and problem-solving abilities. Some notable projects include:
