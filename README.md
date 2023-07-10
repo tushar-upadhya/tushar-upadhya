@@ -21,18 +21,10 @@ Here are the key skills I possess:
 
 I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ rating. Additionally, I have a Contest Rating of 1480, which reflects my problem-solving skills and ability to tackle algorithmic challenges.
 
-## LeetCode Stats
+# LeetCode Statistics
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=_tusharupadhyay&theme=dark&hide=contributions)](https://leetcode.com/_tusharupadhyay)
 
-
-## Projects
-
-Throughout my career, I have worked on various projects that highlight my technical skills and problem-solving abilities. Some notable projects include:
-
-1. [Resume Builder](https://resume-builder-kappa-neon.vercel.app/):  📄 A resume builder application that allows users to customize their resumes with 5️⃣ color options and a drag-and-drop feature. Updates are shown in real-time, providing an intuitive user experience. 🎨📄💼
-
-2. [YouTube Clone](https://youtube-clone-tusharupadhyay.netlify.app/): 📺 A YouTube clone built using Tailwind CSS and ReactJS. It replicates the core functionalities of the original YouTube application, allowing users to browse videos, search for content, and view video details. 🎥🔍📺
 
 ...
 
