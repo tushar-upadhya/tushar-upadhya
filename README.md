@@ -19,7 +19,7 @@ Here are the key skills I possess:
 
 ## LeetCode and Contest Rating
 
-I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ rating. Additionally, I have a Contest Rating of 1480, which reflects my problem-solving skills and ability to tackle algorithmic challenges.
+I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ rating. Additionally, I have a Contest Rating of 1,573, which reflects my problem-solving skills and ability to tackle algorithmic challenges.
 
 # LeetCode Statistics
 
