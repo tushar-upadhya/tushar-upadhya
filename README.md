@@ -1,39 +1,37 @@
-# Hi there! 👋
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Tushar Upadhyay </h1> </div>
 
-I'm Tushar Upadhyay, a Frontend Developer with expertise in HTML, CSS, Java, Vanilla JavaScript, ReactJS, Bootstrap, SCSS, Tailwind CSS, and TypeScript. I have a strong understanding of these technologies and have successfully utilized them in various projects throughout my career.
+# About Me
+I am Tushar Upadhyay, a highly skilled Frontend Developer with a strong background in MSC Electronics and Instrumentation. I have a strong foundation in HTML, CSS, and JavaScript, and I am currently in the process of expanding my skills to include TypeScript. 💻🌱
 
-## Skills
+As I embark on my TypeScript learning journey, I am excited to enhance code quality and maintainability in my projects. I understand the importance of type safety and the benefits it brings to frontend development. I am eager to apply my growing knowledge of TypeScript to create robust and reliable web applications. 📚💪
 
-Here are the key skills I possess:
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?&style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?&style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
+With my academic foundation in MSC Electronics and Instrumentation, I bring a unique perspective to frontend development. I have a strong analytical mindset and the ability to comprehend complex concepts, which enables me to tackle challenging projects with ease. 🧠🔬
 
 
-## LeetCode and Contest Rating
 
-I have actively participated in LeetCode and have achieved a ⭐️⭐️⭐️ rating. Additionally, I have a Contest Rating of 1,573, which reflects my problem-solving skills and ability to tackle algorithmic challenges.
+# Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?logo=strapi&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
-# LeetCode Statistics
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=tushar-upadhya&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushar-upadhya&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=_tusharupadhyay&theme=dark&hide=contributions)](https://leetcode.com/_tusharupadhyay)
-
-
-...
-
-Feel free to explore my repositories for more projects and code samples.
-
-## GitHub Stats
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-upadhya&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="tushar" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-upadhya&theme=transparent&include_all_commits=true" />
 
 
 ## Contact Me
