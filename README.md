@@ -34,6 +34,12 @@ With my academic foundation in MSC Electronics and Instrumentation, I bring a un
 
 
 
+
+# LeetCode Profile
+[![LeetCode Profile](https://leetcode.com/_tusharupadhyay/)](https://leetcode.com/_tusharupadhyay/)
+
+
+
 ## Contact Me
 
 I'm open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or simply want to connect, you can reach out to me through the following channels:
