@@ -45,7 +45,7 @@ With my academic foundation in MSC Electronics and Instrumentation, I bring a un
 
 I'm open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or simply want to connect, you can reach out to me through the following channels:
 
-- ✉️ [Email](mailto:tusharupadhyay691@gmail.com)
+- ✉️ [Email](mailto:tusharupadhyay690@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tusharupadhya/)
 - 🌐 [Portfolio](https://tusharupadhyay.vercel.app)
 
