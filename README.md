@@ -37,7 +37,7 @@ With my academic foundation in MSC Electronics and Instrumentation, I bring a un
 
 
 # LeetCode Profile
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/YourUsername/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/_tryingToDoBetter/)
 
 
 
